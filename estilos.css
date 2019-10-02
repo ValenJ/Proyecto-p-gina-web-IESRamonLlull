@@ -4,8 +4,35 @@
   <link rel="stylesheet" type="text/css" href="index.html">
 </head>
 
-#titulo { font-size:36px;
-          color:; 
-          text-align:center }
+div{
+border:1px solid gray
+}
+
+#contenedor
+{
+width:600px;
+padding:20px;
+margin:0 auto;
+overflow:auto;
+}
+
+#centro
+{
+width:100%;
+}
+#izquierda
+{
+width:49%;
+float:left;
+
+}
+#derecha{
+width:49%;
+float:left;
+
+}
+
+.tc { text-align:center; color:#FF3333 }
+.tc2 { text-align:center; color:#B30000 }
           
           
