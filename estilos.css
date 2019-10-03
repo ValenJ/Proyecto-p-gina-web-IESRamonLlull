@@ -5,14 +5,14 @@
 </head>
 
 
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   background-color: #f0efef;
 }
 
